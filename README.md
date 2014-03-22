@@ -11,9 +11,9 @@ Usage:
 
 lazybone ``<address>`` ``<on|off|status>``
 
-# on:     turn the device on  
-# off:    turn the device off  
-# status: print whether the device is on or off  
+on:     turn the device on  
+off:    turn the device off  
+status: print whether the device is on or off  
 
 It's been a long time since I wrote C, so it might be a nasty ;-(
 
